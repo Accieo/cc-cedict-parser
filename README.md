@@ -22,7 +22,7 @@ match_english("[!Tt]he *", entries)   # Matches definitions starting with anythi
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/accieo/cc-cedict-utils.git && cd cc-cedict-utils
+git clone https://github.com/Accieo/cc-cedict-parser.git && cd cc-cedict-parser
 ```
 
 2. Download the `cedict_ts.u8` dictionary file from an [official](https://www.mdbg.net/chinese/dictionary?page=cc-cedict) source.
